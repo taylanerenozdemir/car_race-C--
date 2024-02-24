@@ -1,0 +1,10 @@
+C:\Users\tayla\source\repos\Giris\Araba Yarışı Projesi\bin\Debug\Araba Yarışı Projesi.exe.config
+C:\Users\tayla\source\repos\Giris\Araba Yarışı Projesi\bin\Debug\Araba Yarışı Projesi.exe
+C:\Users\tayla\source\repos\Giris\Araba Yarışı Projesi\bin\Debug\Araba Yarışı Projesi.pdb
+C:\Users\tayla\source\repos\Giris\Araba Yarışı Projesi\obj\Debug\Araba Yarışı Projesi.csproj.AssemblyReference.cache
+C:\Users\tayla\source\repos\Giris\Araba Yarışı Projesi\obj\Debug\Araba_Yarışı_Projesi.Form1.resources
+C:\Users\tayla\source\repos\Giris\Araba Yarışı Projesi\obj\Debug\Araba_Yarışı_Projesi.Properties.Resources.resources
+C:\Users\tayla\source\repos\Giris\Araba Yarışı Projesi\obj\Debug\Araba Yarışı Projesi.csproj.GenerateResource.cache
+C:\Users\tayla\source\repos\Giris\Araba Yarışı Projesi\obj\Debug\Araba Yarışı Projesi.csproj.CoreCompileInputs.cache
+C:\Users\tayla\source\repos\Giris\Araba Yarışı Projesi\obj\Debug\Araba Yarışı Projesi.exe
+C:\Users\tayla\source\repos\Giris\Araba Yarışı Projesi\obj\Debug\Araba Yarışı Projesi.pdb
